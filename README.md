@@ -8,7 +8,7 @@ End to end test attribute `e2e-test-results-value` is used for checking the reus
 <h3 class="e2e-test-results" e2e-test-selector="search-results-number" e2e-test-results-value="0">0 results</h3>
 ```
 
-![e2e-test-results-value demo](https://github.com/anilkk/dynamic-e2e-test-attribute-value-demo/blob/master/src/img/e2e-test-attribute-value.png "End to end test attribute use demo")
+![e2e-test-results-value demo](https://raw.githubusercontent.com/anilkk/wdio-dynamic-test-attribute-value/master/img/e2e-test-attribute-value.png "End to end test attribute use demo")
 
 This repo tests the [Dynamic test data attribute demo](https://llyzf.csb.app/) application.
 Here is the [Github link to this demo](https://github.com/anilkk/dynamic-e2e-test-attribute-value-demo).
