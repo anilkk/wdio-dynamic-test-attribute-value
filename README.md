@@ -13,7 +13,7 @@ End to end test attribute `e2e-test-results-value` is used for checking the reus
 This repo tests the [Dynamic test data attribute demo](https://llyzf.csb.app/) application.
 Here is the [Github link to this demo](https://github.com/anilkk/dynamic-e2e-test-attribute-value-demo).
 
-### Steps
+### Steps to run the automation tests
 
 1. Install dependency
    `npm install`
@@ -21,7 +21,7 @@ Here is the [Github link to this demo](https://github.com/anilkk/dynamic-e2e-tes
 2. Run the WebdriverIo automation test
    `npm test`
 
-### use of end to end test attribute for DOM selector
+### Use of end to end test attribute for DOM selector
 
 ```Javascript
 // on the demo application
@@ -40,7 +40,7 @@ const BUTTON_25_RESULT_SELECTOR = '[e2e-test-selector="btn-25-results"]';
 const btn25Result = await $(BUTTON_25_RESULT_SELECTOR);
 ```
 
-### use of end to end test attribute for checking dynamic value
+### Use of end to end test attribute for checking dynamic value
 
 ```Javascript
 // on the demo application
